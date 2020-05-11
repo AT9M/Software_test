@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adaab0c5-0cc8-4da9-82a5-602620d97c84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1blde1XGxLEJgGlpBETCwjGq8PO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ie.miniproject" />
+      <recent name="miniproject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adaab0c5-0cc8-4da9-82a5-602620d97c84" name="Default Changelist" comment="" />
+      <created>1589210705773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589210705773</updated>
+      <workItem from="1589210706995" duration="2982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="202" width="811" height="669" key="#Project_Structure" timestamp="1589210947259">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="202" width="811" height="669" key="#Project_Structure/-3440.-367.3440.1347/0.23.1680.1027@0.23.1680.1027" timestamp="1589210947259" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1589217953352">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/-3440.-367.3440.1347/0.23.1680.1027@-3440.-367.3440.1347" timestamp="1589212252412" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/-3440.-367.3440.1347/0.23.1680.1027@0.23.1680.1027" timestamp="1589217953352" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1589217953351">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/-3440.-367.3440.1347/0.23.1680.1027@-3440.-367.3440.1347" timestamp="1589212252411" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/-3440.-367.3440.1347/0.23.1680.1027@0.23.1680.1027" timestamp="1589217953351" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1589217953350">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/-3440.-367.3440.1347/0.23.1680.1027@-3440.-367.3440.1347" timestamp="1589212252410" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/-3440.-367.3440.1347/0.23.1680.1027@0.23.1680.1027" timestamp="1589217953350" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1589217953351">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/-3440.-367.3440.1347/0.23.1680.1027@-3440.-367.3440.1347" timestamp="1589212252411" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/-3440.-367.3440.1347/0.23.1680.1027@0.23.1680.1027" timestamp="1589217953351" />
+    <state x="217" y="240" key="new project wizard" timestamp="1589210732871">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="217" y="240" key="new project wizard/-3440.-367.3440.1347/0.23.1680.1027@0.23.1680.1027" timestamp="1589210732871" />
+  </component>
+</project>
